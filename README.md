@@ -5,8 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-karenchepkoech2002%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karenchepkoech2002@gmail.com)
 
 ## 🔭 About Me
-Passionate software developer specializing in full-stack development and AI solutions. Turning coffee into code since 2020.
-
+Passionate software developer specializing in full-stack development and AI solutions. 
 ## 📈 GitHub Analytics
 
 <div align="center">
