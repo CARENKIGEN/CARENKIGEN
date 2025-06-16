@@ -10,7 +10,7 @@ I thrive on uncovering patterns, telling stories with data, and helping business
 
   
 👯 **Looking to collaborate on:** Data analysis projects and open-source initiatives  
-💬 **Ask me about:** SQL, Python, Tableau, or data storytelling  
+💬 **Ask me about:** SQL, Python, Tableau, or data storytelling.  
 
 
 ---
